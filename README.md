@@ -1,3 +1,3 @@
 # egghead-io-lessons
-## Code from egghead.io lessons i tried
+## Code from egghead.io lessons i watched
 * Elm
